@@ -1,0 +1,22 @@
+{
+  "name": "hello_button",
+  "description": "A hello world button.",
+  "repo": "airportyh/hello_button",
+  "version": "0.0.1",
+  "license": "MIT",
+  "dependencies": {
+    "component/dialog": "*",
+    "component/dom": "*"
+  },
+  "development": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "templates": [
+    "template.html"
+  ],
+  "styles": [
+    "hello_button.css"
+  ]
+}
